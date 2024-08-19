@@ -2,6 +2,9 @@
 
 [![Carlos Keglevich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keglev)](https://github.com/Keglev/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keglev&layout=compact)
+
+
 <!--
 **Keglev/Keglev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
