@@ -6,10 +6,11 @@ I'm looking for exciting opportunities to collaborate on innovative projects and
 
 ## 🚀 Skills & Technologies
 
-- **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript), ![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python), ![HTML5 (https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-- **Frameworks & Libraries**: ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+- **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript), ![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript)
+- **Frontend**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/-CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6), ![React](https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react), ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 - **Databases**: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=flat-square&logo=postgresql), ![MongoDB](https://img.shields.io/badge/-MongoDB-0d1117?style=flat-square&logo=mongodb)
-  ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-0d1117?style=flat-square&logo=github-actions)
+- **DevOps**: ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions)
+
 
 ## 🌍 Languages
 
