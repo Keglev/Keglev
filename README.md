@@ -1,8 +1,10 @@
 
 # 👋 Hi there, I'm Carlos Keglevich!
 
-I'm a passionate software developer interested in full-stack development. I am currently based in Nurenberg, Germany. 
-I'm looking for exciting opportunities to collaborate on innovative projects and contribute to impactful software solutions.
+I'm a backend developer with hands-on experience in Java, Spring Boot, and PostgreSQL. 
+I specialize in building scalable and secure REST APIs using Spring Security and JWT authentication. 
+Passionate about problem-solving and software development, I enjoy translating business needs into real-world applications.  
+
 
 ## 🚀 Skills & Technologies
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
