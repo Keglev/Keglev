@@ -2,9 +2,11 @@
 # 👋 Hi there, I'm Carlos Keglevich!
 
 I'm a backend developer with hands-on experience in Java, Spring Boot, and PostgreSQL. 
-I specialize in building scalable and secure REST APIs using Spring Security and JWT authentication. 
+I build scalable and secure REST APIs using Spring Security and JWT authentication. 
 Passionate about problem-solving and software development, I enjoy translating business needs into real-world applications.  
 🚀 Always open to learning and excited to collaborate on innovative projects! 
+
+You can visit my website at https://carloskeglevich.vercel.app
 
 ---
 
