@@ -1,3 +1,4 @@
+[🇬🇧 English](README.md) | [🇩🇪 Deutsch](README.de.md)
 
 # 👋 Hi there, I'm **Carlos Keglevich**
 
