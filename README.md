@@ -1,13 +1,13 @@
 
-# 👋 Hi there, I'm Carlos Keglevich!
+# 👋 Hi there, I'm **Carlos Keglevich**
 
-I'm a backend developer with hands-on experience in Java, Spring Boot, and PostgreSQL. 
-I build scalable and secure REST APIs using Spring Security and JWT authentication. 
-Passionate about problem-solving and software development, I enjoy translating business needs into real-world applications.  
-🚀 Always open to learning and excited to collaborate on innovative projects! 
-Actually building up an awesome application using Oracle Database and implementing it with Docker!
+I'm a **backend-focused full-stack developer** with solid experience in **Java, Spring Boot, React, and Docker**.  
+I build **secure, scalable, and production-ready REST APIs** with modern CI/CD pipelines and data-driven insights.  
+Passionate about **software architecture and problem-solving**, I transform business logic into efficient, maintainable code.  
 
-You can visit my website at https://carloskeglevich.vercel.app
+Currently developing **SmartSupplyPro**, an enterprise inventory management platform integrating **Oracle Database**, **Spring Boot**, and **React + Vite**.  
+
+🌐 Visit my portfolio → [**carloskeglevich.vercel.app**](https://carloskeglevich.vercel.app)
 
 ---
 
@@ -29,16 +29,18 @@ You can visit my website at https://carloskeglevich.vercel.app
 
 ## 🌍 Languages
 
-- English (C1)
-- German (B2)
-- Portuguese (native) 
+- English 
+- German 
+- Portuguese  
 
 
 [![Carlos Keglevich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keglev)](https://github.com/Keglev/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keglev&layout=compact&langs_count=6&hide=jupyter%20notebook)](https://github.com/Keglev/github-readme-stats)  
 
-🚀 **Looking for collaboration or job opportunities in Germany? Feel free to connect!**
+💬 **Let's Connect**  
+📩 Open to backend-oriented or full-stack opportunities in **Germany** or **remote**.  
+Let’s build something meaningful together → [LinkedIn](https://www.linkedin.com/in/carloskeglevich)
 
 <!--
 **Keglev/Keglev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
