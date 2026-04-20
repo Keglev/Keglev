@@ -8,7 +8,7 @@ I'm a **backend-focused full-stack developer** with solid experience in **Java, 
 I build **secure, scalable, and production-ready REST APIs** with modern CI/CD pipelines and data-driven insights.  
 Passionate about **software architecture and problem-solving**, I transform business logic into efficient, maintainable code.  
 
-Currently developing **SmartSupplyPro**, an enterprise inventory management platform integrating **Oracle Database**, **Spring Boot**, and **React + Vite**.  
+Actually developing my next interesting project!  
 
 🌐 Visit my portfolio → [**carloskeglevich.vercel.app**](https://carloskeglevich.vercel.app)
 
