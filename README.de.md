@@ -6,7 +6,7 @@ Ich bin ein **Backend-orientierter Full-Stack-Entwickler** mit fundierter Erfahr
 Ich entwickle **sichere, skalierbare und produktionsreife REST-APIs** mit modernen CI/CD-Pipelines und datenbasierten Komponenten.  
 Meine Leidenschaft gilt der **Softwarearchitektur und Problemlösung** – komplexe Geschäftslogik in sauberen, wartbaren Code zu übersetzen ist mein Antrieb.  
 
-Derzeit entwickle ich **SmartSupplyPro**, eine Enterprise-Anwendung für Bestands- und Lieferantenmanagement, integriert mit **Oracle-Datenbank**, **Spring Boot** und **React + Vite**.  
+Ich arbeite bereits an meinem nächsten interessanten Projekt! 
 
 🌐 Besuchen Sie mein Portfolio → [**carloskeglevich.vercel.app**](https://carloskeglevich.vercel.app)
 
