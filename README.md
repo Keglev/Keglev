@@ -82,8 +82,8 @@ Both main systems are production-ready: OAuth2/JWT security, Docker deployment, 
 
 ## GitHub Stats
 
-[![Carlos Keglevich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keglev&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/Keglev)
+[![Carlos Keglevich's GitHub stats](https://github-readme-stats-sepia-phi-24.vercel.app/api?username=Keglev&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/Keglev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keglev&layout=compact&langs_count=6&theme=dark&hide_border=true&hide=jupyter%20notebook)](https://github.com/Keglev)
+[![Top Langs](https://github-readme-stats-sepia-phi-24.vercel.app/api/top-langs/?username=Keglev&layout=compact&langs_count=6&theme=dark&hide_border=true&hide=jupyter%20notebook)](https://github.com/Keglev)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Keglev&theme=react-dark&hide_border=true&area=true)](https://github.com/Keglev)

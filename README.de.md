@@ -6,7 +6,7 @@
 
 Ich entwickle Software, die reale Geschäftsprobleme löst — Probleme, mit denen ich selbst gearbeitet habe: Einkaufsprozesse, Bestandskontrolle, Lieferantenbewertung. Meine Projekte sind keine Tutorial-Reproduktionen — sie entstehen aus jahrelanger Erfahrung in Fertigung und Einkauf, umgesetzt als Enterprise-APIs mit vollständiger CI/CD-Pipeline, Sicherheitsarchitektur und Dokumentation.
 
-Wohnhaft in Fürth. Offen für Backend- oder Full-Stack-Stellen in Deutschland oder remote.
+Wohnhaft in Fürth. Aktuell im Aufbau domänengetriebener Backend-Systeme — immer offen für Gespräche über sinnvolle Engineering-Herausforderungen.
 
 **Portfolio:** [carloskeglevich.vercel.app](https://carloskeglevich.vercel.app) | **Docs & Projekte:** [keglev.github.io](https://keglev.github.io/) | **LinkedIn:** [linkedin.com/in/carloskeglevich](https://www.linkedin.com/in/carloskeglevich)
 
@@ -76,12 +76,14 @@ Beide Hauptsysteme sind produktionsreif: OAuth2/JWT-Sicherheit, Docker-Deploymen
 
 - Portugiesisch — Muttersprache
 - Englisch — Fließend
-- Deutsch — Fließend (B2–C1)
+- Deutsch — Fließend
 
 ---
 
 ## GitHub-Statistiken
 
-[![Carlos Keglevich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keglev)](https://github.com/Keglev/github-readme-stats)
+[![Carlos Keglevich's GitHub stats](https://github-readme-stats-sepia-phi-24.vercel.app/api?username=Keglev&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/Keglev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keglev&layout=compact&langs_count=6&hide=jupyter%20notebook)](https://github.com/Keglev/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sepia-phi-24.vercel.app/api/top-langs/?username=Keglev&layout=compact&langs_count=6&theme=dark&hide_border=true&hide=jupyter%20notebook)](https://github.com/Keglev)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Keglev&theme=react-dark&hide_border=true&area=true)](https://github.com/Keglev)
