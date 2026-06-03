@@ -6,7 +6,7 @@
 
 I build software that solves real business problems I've worked with firsthand: procurement workflows, inventory control, supplier evaluation. My projects are not tutorial reproductions — they come from years in manufacturing and purchasing, now implemented as enterprise-grade APIs with full CI/CD, security, and documentation.
 
-Based in Fürth, Germany. Open to backend or full-stack roles in Germany or remote.
+Based in Fürth, Germany. Currently building domain-driven backend systems — always open to conversations about meaningful engineering challenges.
 
 **Portfolio:** [carloskeglevich.vercel.app](https://carloskeglevich.vercel.app) | **Docs & Projects:** [keglev.github.io](https://keglev.github.io/) | **LinkedIn:** [linkedin.com/in/carloskeglevich](https://www.linkedin.com/in/carloskeglevich)
 
@@ -76,16 +76,14 @@ Both main systems are production-ready: OAuth2/JWT security, Docker deployment, 
 
 - Portuguese — Native
 - English — Fluent
-- German — Fluent (B2–C1)
+- German — Fluent
 
 ---
 
 ## GitHub Stats
 
-[![Carlos Keglevich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keglev)](https://github.com/Keglev/github-readme-stats)
+[![Carlos Keglevich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keglev&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/Keglev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keglev&layout=compact&langs_count=6&hide=jupyter%20notebook)](https://github.com/Keglev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keglev&layout=compact&langs_count=6&theme=dark&hide_border=true&hide=jupyter%20notebook)](https://github.com/Keglev)
 
----
-
-
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Keglev&theme=react-dark&hide_border=true&area=true)](https://github.com/Keglev)
