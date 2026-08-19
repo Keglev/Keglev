@@ -21,9 +21,9 @@ All projects are documented and linked at → **[keglev.github.io](https://kegle
 
 | Project | What it does | Stack |
 |---|---|---|
-| **AI Maintenance Assistant** | Retrieval-augmented answers from a plant's own maintenance protocols. Grounded answers cite their sources; role-based filtering server-side; cross-language retrieval (EN/DE). **Live demo at maintenance.smartsupply.com.de** — 500+ automated tests including Playwright end-to-end and visual regression. | Java 21, Spring Boot 4.1, Angular 22, PostgreSQL + pgvector, Keycloak, Playwright |
-| **Bestandskontrolle (StockEase)** | Production-ready inventory backend for SMEs — capital value tracking, Excel BI export, stateless JWT, Flyway-managed schema versioning. **Live at bestandskontrolle.vercel.app** — without expensive ERP software. | Java 17, Spring Boot 3, PostgreSQL, JWT, Docker, Koyeb |
-| **SmartSupplyPro** | Enterprise inventory & procurement system — WAC financial analytics, SAP-style soft delete, OAuth2/OIDC with server-side sessions, bilingual UI (EN/DE). **Live at smartsupplypro.de** with one-click demo mode, no account needed. | Java 21, Spring Boot 4.1, React 19, TypeScript, Oracle Autonomous DB, Fly.io |
+| **AI Maintenance Assistant** | Retrieval-augmented answers from a plant's own maintenance protocols. Grounded answers cite their sources; role-based filtering server-side; cross-language retrieval (EN/DE). Live demo at [maintenance.smartsupply.com.de](https://maintenance.smartsupply.com.de) — 500+ automated tests including Playwright end-to-end and visual regression. | Java 21, Spring Boot 4.1, Angular 22, PostgreSQL + pgvector, Keycloak, Playwright |
+| **Bestandskontrolle (StockEase)** | Production-ready inventory backend for SMEs — capital value tracking, Excel BI export, stateless JWT, Flyway-managed schema versioning. Live at [bestandskontrolle.vercel.app](https://bestandskontrolle.vercel.app) — without expensive ERP software. | Java 17, Spring Boot 3, PostgreSQL, JWT, Docker, Koyeb |
+| **SmartSupplyPro** | Enterprise inventory & procurement system — WAC financial analytics, SAP-style soft delete, OAuth2/OIDC with server-side sessions, bilingual UI (EN/DE). Live at [smartsupplypro.de](https://www.smartsupplypro.de) with one-click demo mode, no account needed. | Java 21, Spring Boot 4.1, React 19, TypeScript, Oracle Autonomous DB, Fly.io |
 
 All three systems are deployed, documented and covered by tests — CI/CD pipelines (GitHub Actions), containerized builds (Docker), and published documentation (arc42, OpenAPI, ADRs)
 
