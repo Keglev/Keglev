@@ -104,4 +104,4 @@ All three systems are deployed, documented and covered by tests — CI/CD pipeli
 
 [![Top Langs](https://github-stats-extended-frontend-theta-nine.vercel.app/api/top-langs/?username=Keglev&layout=compact&langs_count=6&theme=dark&hide_border=true&hide=jupyter%20notebook)](https://github.com/Keglev)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Keglev&theme=react-dark&hide_border=true&area=true)](https://github.com/Keglev)
+[![Contribution Grid](https://ghchart.rshah.org/38bdf8/Keglev)](https://github.com/Keglev)
